@@ -2,4 +2,4 @@ SELECT * FROM Employee
 WHERE Title='Sales Support Agent';
 
 SELECT * FROM Employee
-WHERE Title LIKE '%Sales%';
+WHERE Title LIKE '%Sales Support%';
